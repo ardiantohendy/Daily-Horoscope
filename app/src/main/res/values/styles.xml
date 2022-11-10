@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="cardWHandCol">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:backgroundTint">#F9B9FF</item>
+    </style>
+    <style name="cardWHandColTrans">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:backgroundTint">#F9B9FF</item>
+    </style>
+    <style name="cardWHandColTransPurp">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:backgroundTint">#C6553772</item>
+    </style>
+</resources>
